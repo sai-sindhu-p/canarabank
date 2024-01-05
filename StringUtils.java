@@ -1,2 +1,1 @@
-hello this file contains all the script related inf
-added this line
+hello this file contains all the script related info
